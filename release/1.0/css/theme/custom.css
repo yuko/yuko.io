@@ -106,6 +106,8 @@ body {
 .reveal div.boxwrapper {
     background-color: rgba(0,0,0,0.5);
     padding: 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
 }
 
 .reveal div.boxwrapper_light {
